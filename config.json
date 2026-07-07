@@ -28,9 +28,9 @@
   "line_height": 1.0,
   "width": "default",
   "feature_freeze": {
-    "cv01": "ignore",
+    "cv01": "enable",
     "cv02": "ignore",
-    "cv03": "ignore",
+    "cv03": "enable",
     "cv04": "ignore",
     "cv05": "ignore",
     "cv06": "ignore",
@@ -51,8 +51,8 @@
     "cv39": "ignore",
     "cv40": "ignore",
     "cv41": "ignore",
-    "cv42": "ignore",
-    "cv43": "ignore",
+    "cv42": "enable",
+    "cv43": "enable",
     "cv44": "ignore",
     "cv45": "ignore",
     "cv61": "ignore",
@@ -60,7 +60,7 @@
     "cv63": "ignore",
     "cv64": "ignore",
     "cv65": "ignore",
-    "cv66": "ignore",
+    "cv66": "enable",
     "cv67": "ignore",
     "cv68": "ignore",
     "cv96": "ignore",
@@ -80,7 +80,7 @@
     "ss11": "ignore",
     "ss12": "ignore",
     "ss13": "ignore",
-    "zero": "ignore"
+    "zero": "enable"
   },
   "nerd_font": {
     "enable": true,
